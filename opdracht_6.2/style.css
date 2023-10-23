@@ -1,0 +1,31 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    max-width: 1200px;
+}
+
+.square  {
+    width: 200px;
+    height: 200px;
+    margin: 50px;
+}
+.blue {
+    background-color: blue;
+}
+.black {
+    background-color: black;
+}
+.red {
+    background-color: red;
+}
+.darkgreen {
+   background-color: darkgreen;
+}
+
