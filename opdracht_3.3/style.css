@@ -1,0 +1,9 @@
+th {
+    text-align: left;
+  }
+td {
+    border-bottom: 1px solid #ddd; 
+  }
+  th{
+    border-bottom: 1px solid #ddd;
+  }
