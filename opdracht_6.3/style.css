@@ -1,0 +1,14 @@
+nav {
+    display: flex;
+    flex-flow: row;
+    align-content: space-between;
+    text-align: center;
+}
+a {
+    width: 25%;
+    flex-flow: row;
+}
+div {
+    width: 50%;
+    display: flex;
+}
