@@ -46,6 +46,8 @@ h1{
   color: white;
   text-align: center;
   font-weight: bold;
+  display: flex;
+  
 }
 #special-page{
   background: black;
@@ -61,6 +63,9 @@ footer{
 h2{
   font-weight: bold;
   text-align: center;
+  display: flex;
+  
+  
 }
 main{
   flex: 1;
@@ -68,4 +73,19 @@ main{
 img{
   float: left;
   width: 50vh;
+  
+}
+#special-image{
+  float: right;
+
+}
+main,pre{
+  display: flex;
+  align-items: center;
+  font-family:  "Goldman", cursive;
+}
+section{
+  display: flex;
+  flex-direction: row-reverse;
+  
 }
